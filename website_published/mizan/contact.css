@@ -1,0 +1,24 @@
+.wrapper{
+  background:url(hm.jpg) no-repeat center center fixed;
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+}
+
+.container{
+  background-color:#263238;
+  color: #FFF;
+  padding-top: 50px;
+}
+.contact{
+  padding-bottom: 25px;
+}
+#contact-form{
+  margin: 25px;
+  padding: 30px;
+}
+.row{
+  padding-bottom: 20px;
+}

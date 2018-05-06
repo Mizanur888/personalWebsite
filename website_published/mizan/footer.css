@@ -1,0 +1,14 @@
+.nav-link2{
+  text-decoration: none;
+  background-color: #009688;
+  color:#FFF;
+}
+.nav-link2 a{
+  text-decoration: none;
+  background-color: #009688;
+  color:#FFF;
+}
+.nav-link2 a:hover{
+  font-size: 25px;
+  font-weight: 400;
+}

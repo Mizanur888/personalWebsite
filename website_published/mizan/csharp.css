@@ -1,0 +1,19 @@
+
+.wrapper{
+  background:url(hm.jpg) no-repeat center center fixed;
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+}
+.light-100{
+  border-top: 3px solid #009688;
+  width: 100%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
+.row{
+  padding: 50px;
+  margin-top: 50px;
+}
